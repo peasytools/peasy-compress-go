@@ -3,6 +3,7 @@
 [![Go Reference](https://pkg.go.dev/badge/github.com/peasytools/peasy-compress-go.svg)](https://pkg.go.dev/github.com/peasytools/peasy-compress-go)
 [![Go Report Card](https://goreportcard.com/badge/github.com/peasytools/peasy-compress-go)](https://goreportcard.com/report/github.com/peasytools/peasy-compress-go)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://agentgif.com/badge/github/peasytools/peasy-compress-go/stars.svg)](https://github.com/peasytools/peasy-compress-go)
 
 Go client for the [Peasy Tools](https://peasytools.com) compression API -- compress, archive, and extract files with ZIP, TAR, gzip, Brotli, and Zstandard. Zero dependencies beyond the Go standard library.
 
